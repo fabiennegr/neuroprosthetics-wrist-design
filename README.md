@@ -7,7 +7,7 @@ The wrist plays a crucial role in human movement and manipulation of the hand, w
 ## Demo
 <p align="center">
   <a href="documentation/demo.mp4">
-    <img src="documentation/animation.png" width="700" />
+    <img src="documentation/animation.png" width="500" />
   </a>
 </p>
 
